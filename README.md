@@ -82,19 +82,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 - [ ] Tekken 7
     - [ ] Logos
-    - [ ] Colors
+    - [x] Colors
     - [ ] All renders
     - [ ] All splasharts
-    - [ ] All maps
-    - [ ] All win/loose videos
+    - [x] All ranks
+    - [x] All maps
 
 - [ ] Tekken 8
     - [ ] Logos
-    - [ ] Colors
+    - [x] Colors
     - [ ] All renders
     - [ ] All splasharts
     - [ ] All maps
-    - [ ] All win/loose videos
 
 See the [open issues](https://github.com/Pandipipas/tekken-assets/issues) for a full list of proposed features (and known issues).
 

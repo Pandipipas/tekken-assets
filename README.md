@@ -81,19 +81,19 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Roadmap
 
 - [ ] Tekken 7
-    - [ ] Logos
+    - [x] Logos
     - [x] Colors
     - [ ] All renders
-    - [ ] All splasharts
+    - [x] All splash arts
     - [x] All ranks
-    - [x] All maps
+    - [x] All stages
 
 - [ ] Tekken 8
     - [ ] Logos
     - [x] Colors
     - [ ] All renders
     - [ ] All splasharts
-    - [ ] All maps
+    - [ ] All stages
 
 See the [open issues](https://github.com/Pandipipas/tekken-assets/issues) for a full list of proposed features (and known issues).
 
